@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤  Je suis en B2 informatique à Ynov.<br>🔭 Je travaille sur n projet de plateforme de streaming.<br>👯 J'aimerai travailler avec une équipe en React.js<br>🌱 J'apprend actuellement du React.js, sql et du python.<br>💬 Hésitez pas à me demander plus d'informations sur mes projets.<br>
+👤  Je suis en M1 informatique à Ynov.<br>🔭 Je travaille sur un projet de plateforme de streaming.<br>👯 J'aimerai travailler avec une équipe en React.js<br>🌱 J'apprend actuellement du React.js, sql et du python.<br>💬 Hésitez pas à me demander plus d'informations sur mes projets.<br>
 
 
 ## 🌐 Socials:
